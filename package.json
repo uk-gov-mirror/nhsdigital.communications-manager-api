@@ -54,9 +54,7 @@
   },
   "overrides": {
     "newman": {
-      "postman-runtime": {
-        "node-forge": "^1.3.2"
-      }
+      "postman-runtime": "^7.53.0"
     }
   }
 }
